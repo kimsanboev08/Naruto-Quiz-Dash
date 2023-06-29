@@ -11,6 +11,5 @@ A captivating Naruto Quiz game developed using Flutter. Test your knowledge, cho
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sample Screenshots
-<img src="Screenshots/Start.png" alt="Start Screen" width="270" height="570"> 
-<img src="Screenshots/Screenshot_1688058183.png" alt="Mode Screen" width="270" height="570">
+<img src="Screenshots/Start.png" alt="Start Screen" width="270" height="570">      <img src="Screenshots/Screenshot_1688058183.png" alt="Mode Screen" width="270" height="570">
 
