@@ -11,6 +11,7 @@ A captivating Naruto Quiz game developed using Flutter. Test your knowledge, cho
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sample Screenshots
+<img src="screenshots/Screenshot_20190109-002106.png" alt="alt text" width="288" height="512">  
 ![Start](https://github.com/kimsanboev08/Naruto-Quiz-Dash/assets/51867935/9358b26d-a239-4bf8-8d32-b716d66462d4)
 ![Screenshot_1688058183](https://github.com/kimsanboev08/Naruto-Quiz-Dash/assets/51867935/353c3e82-0e4f-4cc0-a1f2-10f3f18980e6)
 ![Screenshot_1688059739](https://github.com/kimsanboev08/Naruto-Quiz-Dash/assets/51867935/b2382bac-e238-40a0-b700-d121ebbba5ff)
