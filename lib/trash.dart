@@ -1,0 +1,133 @@
+/*
+Image? image1;
+  Image? image2;
+  Image? image3;
+  Image? image4;
+  Image? image5;
+  Image? image6;
+  Image? image7;
+  Image? image8;
+  Image? image9;
+  Image? image10;
+  Image? image11;
+  Image? image12;
+  Image? image13;
+  Image? image14;
+  Image? image15;
+  Image? image16;
+  Image? image17;
+  Image? image18;
+  Image? image19;
+  Image? image20;
+  Image? image21;
+  Image? image22;
+  Image? image23;
+  Image? image24;
+  Image? image25;
+  Image? image26;
+  Image? image27;
+  Image? image28;
+  Image? image29;
+  Image? image30;
+  Image? image31;
+  Image? image32;
+  Image? image33;
+  Image? image34;
+  Image? image35;
+  Image? image36;
+  Image? image37;
+  Image? image38;
+  Image? image39;
+
+  @override
+  void initState() {
+    super.initState();
+
+    image1 = Image.asset('assets/images/Naruto_Background.jpg');
+    image2 = Image.asset('assets/images/Headband.png');
+    image3 = Image.asset('assets/images/Sasuke_1.jpg');
+    image4 = Image.asset('assets/images/Kurama.jpg');
+    image5 = Image.asset('assets/images/Results_Background.jpg');
+    image6 = Image.asset('assets/images/Uzumaki_Clan_Symbol.png');
+    image7 = Image.asset('assets/images/Quote_Background.png');
+    image8 = Image.asset('assets/images/Mode_Background.png');
+    image9 = Image.asset('assets/images/Summary_Background.jpg');
+    image10 = Image.asset('assets/images/Madara_1.png');
+    image11 = Image.asset('assets/images/Madara.jpg');
+    image12 = Image.asset('assets/images/Tobi_1.jpg');
+    image13 = Image.asset('assets/images/Susanoo.jpg');
+    image14 = Image.asset('assets/images/Itachi_Susanoo.jpg');
+    image15 = Image.asset('assets/images/Sasuke_Susanoo.jpg');
+    image16 = Image.asset('assets/images/Kakashi_Hokage.jpg');
+    image17 = Image.asset('assets/images/Kakashi_Obito_Rin.jpg');
+    image18 = Image.asset('assets/images/Kakashi_Obito.png');
+    image19 = Image.asset('assets/images/Kakashi_2.jpg');
+    image20 = Image.asset('assets/images/Kakashi_1.jpg');
+    image21 = Image.asset('assets/images/Madara_Susanoo.jpg');
+    image22 = Image.asset('assets/images/Jiraya_Naruto.jpg');
+    image23 = Image.asset('assets/images/Naruto_Sage.jpg');
+    image24 = Image.asset('assets/images/Naruto.jpg');
+    image25 = Image.asset('assets/images/Sasuke_Moon.jpg');
+    image25 = Image.asset('assets/images/Gaara_Minimalist.jpg');
+    image26 = Image.asset('assets/images/Team_7.jpg');
+    image27 = Image.asset('assets/images/Naruto_Minimalist.jpg');
+    image28 = Image.asset('assets/images/Madara_HashiramaCells.jpg');
+    image29 = Image.asset('assets/images/Itachi_Anbu_Akatsuki.jpg');
+    image30 = Image.asset('assets/images/Team_Kakashi.jpg');
+    image31 = Image.asset('assets/images/Gaara.jpg');
+    image32 = Image.asset('assets/images/Naruto_OriginalStyle.jpg');
+    image33 = Image.asset('assets/images/Minato.jpg');
+    image34 = Image.asset('assets/images/Naruto_Genin.jpg');
+    image35 = Image.asset('assets/images/Naruto_Six_Paths.jpg');
+    image36 = Image.asset('assets/images/Sharingan.jpg');
+    image36 = Image.asset('assets/images/Itachi_Dark.jpg');
+    image37 = Image.asset('assets/images/Kakashi_Hatake.jpg');
+    image38 = Image.asset('assets/images/Kakashi_Hokage_1.jpg');
+    image39 = Image.asset('assets/images/Kakashi_Young.png');
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+
+    precacheImage(image1!.image, context);
+    precacheImage(image2!.image, context);
+    precacheImage(image3!.image, context);
+    precacheImage(image4!.image, context);
+    precacheImage(image5!.image, context);
+    precacheImage(image6!.image, context);
+    precacheImage(image7!.image, context);
+    precacheImage(image8!.image, context);
+    precacheImage(image9!.image, context);
+    precacheImage(image10!.image, context);
+    precacheImage(image11!.image, context);
+    precacheImage(image12!.image, context);
+    precacheImage(image13!.image, context);
+    precacheImage(image14!.image, context);
+    precacheImage(image15!.image, context);
+    precacheImage(image16!.image, context);
+    precacheImage(image17!.image, context);
+    precacheImage(image18!.image, context);
+    precacheImage(image19!.image, context);
+    precacheImage(image20!.image, context);
+    precacheImage(image21!.image, context);
+    precacheImage(image22!.image, context);
+    precacheImage(image23!.image, context);
+    precacheImage(image24!.image, context);
+    precacheImage(image25!.image, context);
+    precacheImage(image26!.image, context);
+    precacheImage(image27!.image, context);
+    precacheImage(image28!.image, context);
+    precacheImage(image29!.image, context);
+    precacheImage(image30!.image, context);
+    precacheImage(image31!.image, context);
+    precacheImage(image32!.image, context);
+    precacheImage(image33!.image, context);
+    precacheImage(image34!.image, context);
+    precacheImage(image35!.image, context);
+    precacheImage(image36!.image, context);
+    precacheImage(image37!.image, context);
+    precacheImage(image38!.image, context);
+    precacheImage(image39!.image, context);
+  }
+  */
