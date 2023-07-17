@@ -7,9 +7,9 @@ A captivating Naruto Quiz game developed using Flutter. Test your knowledge, cho
 - The Application is build using **Flutter**, a.k.a. **Dart**.
 
 ## View
-You can use Android Studio to build and run the application from you local machine.
+- You can use **Android Studio** to build and run the application from you local machine.
 
-- ***Android Studio***
+- ***Personal cell phone***
     - For **Android**:
 Enable Developer options and USB debugging on your device. This varies slightly by Android version, but the short version is you tap on the Device Build Number 7 times. Then a "Developer Options" option comes up and you can click "enable USB Debugging." See the linked Android documentation for the most up-to-date instructions.
 Then plug your phone into your computer with a USB cable. You'll probably see some popup on your phone asking if you want to allow USB debuggng with that computer. Say "yes".
