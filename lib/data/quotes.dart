@@ -18,7 +18,7 @@ const quotes = [
     '- Jiraya',
   ),
   Quotes(
-    "The eye sees only what the mind prepared to comprehend.",
+    "The eye sees only what the mind is prepared to comprehend.",
     '- Itachi Uchiha',
   ),
   Quotes(
