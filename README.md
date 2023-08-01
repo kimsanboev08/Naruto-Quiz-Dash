@@ -42,7 +42,13 @@ In Xcode, click the Run button.
 <p align="center"> 
     <img src="Screenshots/Screenshot_1688058320.png" alt="Quiz" width="270" height="570">       
     <img src="Screenshots/Screenshot_1688058283.png" alt="Quiz" width="270" height="570">       
-    <img src="Screenshots/Screenshot_1688060047.png" alt="Quiz" width="270" height="570">    
+    <img src="Screenshots/Screenshot_1690932907.png" alt="Quiz" width="270" height="570">    
+</p>
+
+<p align="center"> 
+    <img src="Screenshots/Screenshot_1690933022.png" alt="Quiz" width="270" height="570">       
+    <img src="Screenshots/Screenshot_1690932872.png" alt="Quiz" width="270" height="570">       
+    <img src="Screenshots/Screenshot_1690932879.png" alt="Quiz" width="270" height="570">    
 </p>
 
 <p align="center"> 
